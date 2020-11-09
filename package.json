@@ -1,0 +1,23 @@
+{
+  "name": "understanding-ts-udemy",
+  "version": "1.0.0",
+  "description": "udmey course understanding ts https://www.udemy.com/course/understanding-typescript/learn/lecture/16949340#overview",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwin4740/understanding-ts-udemy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwin4740/understanding-ts-udemy/issues"
+  },
+  "homepage": "https://github.com/jwin4740/understanding-ts-udemy#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
